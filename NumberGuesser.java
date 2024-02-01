@@ -1,5 +1,3 @@
-package com.thippeswamy.app.projectCompleted;
-
 import java.io.IOException;
 import java.util.Scanner;
 
